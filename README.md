@@ -1,1 +1,3 @@
-# WtBackup
+# バックアップソフト WtBackup
+
+バックアップソフト WtBackup です。
